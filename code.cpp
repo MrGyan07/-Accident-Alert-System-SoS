@@ -1,4 +1,4 @@
-1) ACCIDENTAL ALERT SYSTEM SOS
+//1) ACCIDENTAL ALERT SYSTEM SOS
 
 #include<LiquidCrystal_I2C.h> 
 #include <AltSoftSerial.h> 
@@ -329,9 +329,8 @@ Serial.println(response);
 return answer; 
 } 
 
-2) AUTO CUT-OFF SYSTEM
-
-//team Raftaar asme innovation project 2023 
+//2) AUTO CUT-OFF SYSTEM
+ 
 #include <Wire.h> 
 #include <MPU6050.h> 
 MPU6050 mpu; 
