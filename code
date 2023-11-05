@@ -1,4 +1,4 @@
-# **1. Accident alert system sos**
+1) ACCIDENTAL ALERT SYSTEM SOS
 
 #include<LiquidCrystal_I2C.h> 
 #include <AltSoftSerial.h> 
@@ -329,7 +329,7 @@ Serial.println(response);
 return answer; 
 } 
 
-# **2. Auto Cutoff System**
+2) AUTO CUT-OFF SYSTEM
 
 //team Raftaar asme innovation project 2023 
 #include <Wire.h> 
